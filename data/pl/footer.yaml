@@ -1,0 +1,12 @@
+logo_image: /logo_round.png
+menuitems:
+  - title: Kontakt
+    link:  /kontakt/
+socials:
+  - title: LinkedIn
+    link: https://linkedin.com/company/hamot-pl
+    logo_image: /img/linkedin.svg
+  - title: WhatsApp
+    link: https://wa.me/48726777465
+    logo_image: /icons/whatsapp.svg
+footer_text: Copyright (c) 2025 HAMOT. All Rights Reserved. Strona stworzona za pomocą [Hugobricks](https://github.com/jhvanderschee/hugobricks).

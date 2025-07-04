@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bricks on </title>
+    <link>https://www.hamot.pl/en/bricks/</link>
+    <description>Recent content in Bricks on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://www.hamot.pl/en/bricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>features</title>
+      <link>https://www.hamot.pl/en/bricks/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hamot.pl/en/bricks/features/</guid>
+      <description>&lt;h2 id=&#34;our-services&#34;&gt;Our Services&lt;/h2&gt;&#xA;&lt;p&gt;We offer a wide and diverse range of services for businesses and companies.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.hamot.pl/icons/recycling.svg&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;plastic-recycling&#34;&gt;Plastic Recycling&lt;/h3&gt;&#xA;&lt;p&gt;From discarded plastic, we produce high-quality products for consumers:&#xA;&lt;strong&gt;bottles, pipes, automotive gaskets, and much more&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.hamot.pl/icons/water_drop.svg&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;petrochemical-imports&#34;&gt;Petrochemical Imports&lt;/h3&gt;&#xA;&lt;p&gt;We import petrochemical products from abroad, such as engine oils and&#xA;hydraulic lubricants. Leveraging our expertise, we are able to source the&#xA;&lt;strong&gt;right quality product&lt;/strong&gt; for our clients.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.hamot.pl/icons/euro.svg&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;competitive-pricing&#34;&gt;Competitive Pricing&lt;/h3&gt;&#xA;&lt;p&gt;Our industrial partners are global players, able to supply petrochemical products at&#xA;&lt;strong&gt;exceptionally competitive prices&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>map</title>
+      <link>https://www.hamot.pl/en/bricks/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.hamot.pl/en/bricks/map/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.hamot.pl/map.png&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.openstreetmap.org/#map=17/52.974230/22.249664&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenStreetMap&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;visit-us&#34;&gt;Visit Us&lt;/h2&gt;&#xA;&lt;p&gt;HAMOT&lt;br&gt;&#xA;Ul. Fabryczna 16&lt;br&gt;&#xA;18-300 Zambrów, Podlasie voivodeship&lt;br&gt;&#xA;Poland&lt;/p&gt;&#xA;&#xA;&lt;ul class=&#34;buttons&#34;&gt;&lt;li&gt;&lt;a href=&#34;tel:&amp;#43;48602210033&#34; class=&#34;button icon&#34;&gt;&lt;img src=&#34;https://www.hamot.pl/img/phone.svg&#34; alt=&#34;&amp;#43;48 602 210 033&#34; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;mailto:info@hamot.pl&#34; class=&#34;button icon&#34;&gt;&lt;img src=&#34;https://www.hamot.pl/img/email.svg&#34; alt=&#34;info@hamot.pl&#34; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

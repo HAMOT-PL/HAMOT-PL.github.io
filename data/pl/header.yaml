@@ -1,0 +1,21 @@
+logo_image: /logo_round.png
+logo_subtitle: Firma petrochemiczna
+dark_header: false
+mobile_view_width: 1100
+menuitems:
+  - title: Produkty
+    link: /produkty/
+    items:
+    - title: Plastikowe
+      link: /produkty/#produkty-z-recyklingu
+    - title: Plastikowe (półprodukty)
+      link: /produkty/#półprodukty-z-recyklingu
+    - title: Oleje
+      link: /produkty/#oleje-przemysłowe
+  - title: Kontakt
+    link: /kontakt/
+cta:
+  active: true
+  title: Get started
+  link: /get-started/
+preheader: Czynne 8:00-16:00 (poniedziałek-piątek)

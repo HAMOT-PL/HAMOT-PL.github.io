@@ -1,0 +1,21 @@
+logo_image: /logo_round.png
+logo_subtitle: Petrochemical Company
+dark_header: false
+mobile_view_width: 1100
+menuitems:
+  - title: Products
+    link: /en/catalogue/
+    items:
+    - title: Plastic
+      link: /en/catalogue/#recycled-products
+    - title: Plastic (semi-product)
+      link: /en/catalogue/#recycled-semi-products
+    - title: Industrial lubricants
+      link: /en/catalogue/#industrial-lubricants
+  - title: Contact
+    link: /en/contact/
+cta:
+  active: true
+  title: Get started
+  link: /en/get-started/
+preheader: Open 8:00 - 16:00 (Monday-Friday)

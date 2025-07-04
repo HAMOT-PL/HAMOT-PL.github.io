@@ -1,0 +1,21 @@
+mon:
+  start: 8.00
+  end: 16.00
+tue:
+  start: 8.00
+  end: 16.00
+wed:
+  start: 8.00
+  end: 16.00
+thu:
+  start: 8.00
+  end: 16.00
+fri:
+  start: 8.00
+  end: 16.00
+sat:
+  start:
+  end:
+sun:
+  start:
+  end:
