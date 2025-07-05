@@ -10,7 +10,7 @@ title: Strona główna
 # Specjaliści petrochemii od **30 lat**
 
 Znajdujemy się na rynku od roku 1993. Przez te lata nabyliśmy doświadczenia i
-specjalizacji w zakresie recyklingu plastiku (m.in. PVC, PP, PET, HDPE), jego
+specjalizacji w zakresie recyklingu plastiku (m.in. PVC, PP, HDPE), jego
 przetworzeniem na produkt konsumencki, oraz dystrybucji ogólnej produktów
 petrochemicznych.
 

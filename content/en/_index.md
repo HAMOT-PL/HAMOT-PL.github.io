@@ -9,7 +9,10 @@ title: Home
 
 # Petrochemical Specialists for **30 Years**
 
-We have been on the market since 1993. Over these years, we have gained experience and expertise in plastic recycling (e.g., PVC, PP, PET, HDPE), its processing into consumer products, and the general distribution of petrochemical products.
+We have been on the market since 1993. Over these years, we have gained
+experience and expertise in plastic recycling (e.g., PVC, PP, HDPE), its
+processing into consumer products, and the general distribution of
+petrochemical products.
 
 {{< /brick_title >}}
 

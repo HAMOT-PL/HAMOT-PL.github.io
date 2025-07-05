@@ -59,6 +59,12 @@ section.bgimage .overlay {
   background: rgba(0, 0, 0, 0.5);
 }
 
+/*------------------------*/
+/* add shadows to elements
+/*------------------------*/
+
+.button,
+div.map,
 ul.blocks li.hasimage,
 section.image .twocols .image img {
   box-shadow: 0 2px 5px #0003;
@@ -69,5 +75,5 @@ section.image .twocols .image img {
 /*------------------------*/
 
 p {
-  line-height: 1.8;
+  line-height: 2.0;
 }
