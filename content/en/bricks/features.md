@@ -28,4 +28,4 @@ hydraulic lubricants. Leveraging our expertise, we are able to source the
 ### Competitive Pricing
 
 Our industrial partners are global players, able to supply petrochemical products at
-**exceptionally competitive prices**.
+**exceptionally competitive prices**, without any compromises on quality.

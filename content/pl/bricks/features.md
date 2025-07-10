@@ -28,4 +28,5 @@ smary hydrauliczne. Poprzez nasze doświadczenie, jesteśmy w stanie dobrać
 ### Konkurencyjne ceny
 
 Nasi partnerzy przemysłowi są światowymi graczami na rynku globalnym, którzy
-są w stanie dostarczyć petrochemiczne środki w **wyjątkowo niskich cenach**.
+są w stanie dostarczyć petrochemiczne środki w **wyjątkowo niskich cenach**,
+bez żadnych kompromisów jakości.

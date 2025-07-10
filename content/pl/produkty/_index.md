@@ -55,6 +55,6 @@ wymaganiom nowoczesnego przemysłu i transportu. Wybierz inteligentne
 rozwiązanie, które zapewni Twoim maszynom ochronę, na jaką zasługują, bez
 obciążania budżetu.
 
-{{< button "Skontaktuj się" "/kontakt/" >}}
+{{< button "Przejdź do oferty" "/produkty/oleje.md" >}}
 
 {{< /brick_image >}}

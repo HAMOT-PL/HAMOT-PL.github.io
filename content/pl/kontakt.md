@@ -4,9 +4,9 @@ title: Kontakt
 
 {{< brick_title >}}
 
-{{< breadcrumbs >}}
+# Skontaktuj się z nami
 
-## Skontaktuj się z nami
+{{< breadcrumbs >}}
 
 Serdecznie zapraszamy do skontaktowania się z nami w sprawie kupna, sprzedaży,
 pytań technicznych lub jakich kolwiek innych treści.

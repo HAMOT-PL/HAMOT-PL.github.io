@@ -73,7 +73,7 @@ Plastic regrind, granules, powder, etc.
 ![](engine.jpg)
 ### Industrial Lubricants
 
-For engines, hydraulics, brakes, etc.
+For engines, hydraulics, and transmission.
 
 [](/en/catalogue/#industrial-lubricants)
 

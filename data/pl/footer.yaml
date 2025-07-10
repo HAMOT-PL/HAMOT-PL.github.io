@@ -9,4 +9,6 @@ socials:
   - title: WhatsApp
     link: https://wa.me/48726777465
     logo_image: /icons/whatsapp.svg
-footer_text: Copyright (c) 2025 HAMOT. All Rights Reserved. Strona stworzona za pomocą [Hugobricks](https://github.com/jhvanderschee/hugobricks).
+footer_text: |
+  Copyright (c) 2025 HAMOT. All Rights Reserved. Strona stworzona za pomocą [Hugobricks](https://github.com/jhvanderschee/hugobricks).\
+  NIP: 7231000222 | REGON: 450095058

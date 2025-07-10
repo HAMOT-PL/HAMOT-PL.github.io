@@ -76,12 +76,12 @@ Plastikowy przemiał, granulat, mączka, itp.
 
 ---
 
-![](engine.jpg)
+![](barrels.jpg)
 ### Oleje przemysłowe
 
-Do silników, hydrauliki, hamulcowe, itp.
+Do silników, hydrauliki i skrzyń biegów.
 
-[](/produkty/#oleje-przemysłowe)
+[](/produkty/oleje)
 
 
 {{< /brick_blocks >}}

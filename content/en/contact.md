@@ -4,9 +4,9 @@ title: Contact
 
 {{< brick_title >}}
 
-{{< breadcrumbs >}}
+# Contact Us
 
-## Contact Us
+{{< breadcrumbs >}}
 
 Please feel free to contact us regarding purchases, sales, technical questions, or any other inquiries.
 

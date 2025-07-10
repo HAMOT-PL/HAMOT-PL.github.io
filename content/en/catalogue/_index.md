@@ -54,6 +54,6 @@ deliver products with an excellent quality-to-price ratio that meet the demands
 of modern industry and transport. Choose a smart solution that provides your
 machines with the protection they deserve, without burdening your budget.
 
-{{< button "Contact Us" "/contact/" >}}
+{{< button "Check Our Offer" "/catalogue/lubricants" >}}
 
 {{< /brick_image >}}

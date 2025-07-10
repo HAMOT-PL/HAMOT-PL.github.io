@@ -10,8 +10,8 @@ menuitems:
       link: /produkty/#produkty-z-recyklingu
     - title: Plastikowe (półprodukty)
       link: /produkty/#półprodukty-z-recyklingu
-    - title: Oleje
-      link: /produkty/#oleje-przemysłowe
+    - title: Oleje przemysłowe
+      link: /produkty/oleje
   - title: Kontakt
     link: /kontakt/
 cta:
