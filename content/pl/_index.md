@@ -58,7 +58,7 @@ zaoferowania.
 
 ---
 
-![](packaging.jpg)
+![](/packaging.jpg)
 ### Produkty z recyklingu
 
 Plastikowe opakowania, rury, uszczelki, itp.
@@ -67,7 +67,7 @@ Plastikowe opakowania, rury, uszczelki, itp.
 
 ---
 
-![](granulate.jpg)
+![](/granulate.jpg)
 ### Półprodukty z recyklingu
 
 Plastikowy przemiał, granulat, mączka, itp.
@@ -76,7 +76,7 @@ Plastikowy przemiał, granulat, mączka, itp.
 
 ---
 
-![](barrels.jpg)
+![](/barrels.jpg)
 ### Oleje przemysłowe
 
 Do silników, hydrauliki i skrzyń biegów.

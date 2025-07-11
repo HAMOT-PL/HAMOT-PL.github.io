@@ -52,7 +52,7 @@ Below is a brief description of the products we offer.
 
 ---
 
-![](packaging.jpg)
+![](/packaging.jpg)
 ### Recycled Products
 
 Plastic packaging, pipes, gaskets, etc.
@@ -61,7 +61,7 @@ Plastic packaging, pipes, gaskets, etc.
 
 ---
 
-![](granulate.jpg)
+![](/granulate.jpg)
 ### Recycled Semi-Products
 
 Plastic regrind, granules, powder, etc.
@@ -70,12 +70,12 @@ Plastic regrind, granules, powder, etc.
 
 ---
 
-![](engine.jpg)
+![](/barrels.jpg)
 ### Industrial Lubricants
 
 For engines, hydraulics, and transmission.
 
-[](/en/catalogue/#industrial-lubricants)
+[](/en/catalogue/lubricants)
 
 
 {{< /brick_blocks >}}
