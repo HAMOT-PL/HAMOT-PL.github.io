@@ -59,7 +59,7 @@ aby sprostać rygorystycznym normom emisji spalin i zapewnić doskonałą ochron
 silnika, dyspersję sadzy i stabilność termiczną. Są one kompatybilne wstecz i
 mogą zastępować oleje klasy CH-4, CG-4 i CF-4.
 
-### Oleje do silników senzynowych
+### Oleje do silników benzynowych
 
 Poniżej znajduje się wyjaśnienie poszczególnych kategorii olejów:
 
