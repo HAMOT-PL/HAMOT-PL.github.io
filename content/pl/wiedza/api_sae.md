@@ -36,8 +36,7 @@ uszkodzenia silnika.
 
 ### Oleje do silników wysokoprężnych (Diesel)
 
-Poniżej znajduje się wyjaśnienie poszczególnych kategorii olejów, które
-będziecie sprzedawać:
+Poniżej znajduje się wyjaśnienie poszczególnych kategorii olejów:
 
 * **API CF-4:** Wprowadzona w 1990 roku, przeznaczona dla czterosuwowych,
 wysokoobrotowych silników Diesla, zarówno wolnossących, jak i
@@ -62,8 +61,7 @@ mogą zastępować oleje klasy CH-4, CG-4 i CF-4.
 
 ### Oleje do silników senzynowych
 
-Poniżej znajduje się wyjaśnienie poszczególnych kategorii olejów, które
-będziecie sprzedawać:
+Poniżej znajduje się wyjaśnienie poszczególnych kategorii olejów:
 
 * **API SJ:** Norma wprowadzona w 1996 roku, przeznaczona dla silników w
 pojazdach wyprodukowanych przed 2001 rokiem. W porównaniu do wcześniejszej
