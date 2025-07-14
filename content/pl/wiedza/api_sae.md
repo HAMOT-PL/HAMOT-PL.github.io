@@ -4,7 +4,7 @@ title: API i SAE
 
 {{< brick_title >}}
 
-# Zrozumienie standardów olejów oilnikowych: API i SAE
+# Zrozumienie standardów olejów silnikowych: API i SAE
 
 Świat motoryzacji opiera się na precyzyjnych normach, które zapewniają
 niezawodność i wydajność pojazdów. Dwie z najważniejszych organizacji, które
