@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.hamot.pl/wiedza/api_sae/</loc>
+  </url><url>
     <loc>https://www.hamot.pl/bricks/</loc>
     <xhtml:link
                 rel="alternate"
@@ -79,5 +81,7 @@
                 hreflang="pl"
                 href="https://www.hamot.pl/tags/"
                 />
+  </url><url>
+    <loc>https://www.hamot.pl/wiedza/</loc>
   </url>
 </urlset>
