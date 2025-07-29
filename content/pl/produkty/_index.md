@@ -9,14 +9,18 @@ title: Produkty
 
 {{< brick_image >}}
 
-## Produkty z recyklingu
+## Produkty plastikowe
 
 ![](/packaging.jpg)
 
-Wierzymy, że plastik zasługuje na drugie życie. Dlatego dynamicznie rozwijamy
-technologie, które pozwalają nam tworzyć nowatorskie produkty w 100% z
-recyklatu. Każdy nasz wyrób to dowód na to, że doskonała jakość, trwałość i
-troska o środowisko mogą tworzyć jedną, spójną całość.
+Oferujemy szeroki asortyment wysokiej jakości produktów petrochemicznych, w tym
+profile PVC do zastosowań budowlanych i dekoracyjnych oraz folie PP
+przeznaczone do produkcji mebli i wykończeń wnętrz. Nasze produkty są
+doskonałym rozwiązaniem dla firm szukających niezawodnych materiałów do swoich
+procesów produkcyjnych lub dystrybucyjnych. Zapewniamy konkurencyjne ceny,
+stabilną jakość i elastyczne warunki współpracy – zapoznaj się z naszym
+katalogiem, aby poznać pełny zakres dostępnych produktów i znaleźć idealne
+rozwiązanie dla Twojej działalności.
 
 {{< button "Skontaktuj się" "/kontakt/" >}}
 

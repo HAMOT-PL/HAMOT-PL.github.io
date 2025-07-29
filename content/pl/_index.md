@@ -59,11 +59,11 @@ zaoferowania.
 ---
 
 ![](/packaging.jpg)
-### Produkty z recyklingu
+### Produkty plastikowe
 
-Plastikowe opakowania, rury, uszczelki, itp.
+Folje meblowe, profile, i więcej.
 
-[](/produkty/#produkty-z-recyklingu)
+[](/produkty/#produkty-plastikowe)
 
 ---
 
